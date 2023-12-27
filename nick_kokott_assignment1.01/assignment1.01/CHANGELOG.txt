@@ -1,0 +1,14 @@
+1/28/2023 3:07pm -> Assignment started
+1/28/2023 3:12pm -> Created printMap method.
+1/28/2023 3:22pm -> Created generateBorder method.
+1/28/2023 3:33pm -> Created fillShortGrass method.
+1/29/2023 10:00am -> Created generateRoads method.
+1/29/2023 7:38pm -> Fixed bug where left and right borders wouldn't generate boulder character.
+1/29/2023 7:47pm -> Fixed bug where exits would start at corners and mess up path finding for connecting the exits.
+1/29/2023 7:58pm -> Fixed bug where top and bottom paths were flipping where they should have been.
+1/29/2023 8:46pm -> Created placeWorldTerrain method.
+1/29/2023 9:24pm -> Created helperPlaceTerrain method.
+1/30/2023 4:24pm -> Allowed for trees and forests to be placed in placeWorldTerrain method.
+1/30/2023 4:41pm -> Fixed bug where terrain would frequently spawn as a horizontal line.
+1/30/2023 4:59pm -> Created placeMartAndCenter method where pokemarts (M) and pokecenters(C) are represented by one character.
+1/30/2023 5:11pm -> Finished assignment.

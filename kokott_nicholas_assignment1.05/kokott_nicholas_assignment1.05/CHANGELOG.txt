@@ -1,0 +1,8 @@
+3/5/2023 1:34pm -> Began Assignment 1.05.
+3/5/2023 1:43pm -> Created an init_terminal method that gets the terminal ready to be displayed.
+3/5/2023 2:02pm -> Changed how the printMap method works by changing everything to work with ncurses.
+3/5/2023 3:18pm -> Added movement for the player character.
+3/5/2023 3:27pm -> Created temporary pokemart and pokecenter interfaces.
+3/5/2023 3:51pm -> Created trainerlist method to display all trainers on current map.
+3/19/2023 4:15pm -> Added the ncurses library to the makefile.
+3/20/2023 1:10pm -> Fixed bug where character would make multiple moves at once.

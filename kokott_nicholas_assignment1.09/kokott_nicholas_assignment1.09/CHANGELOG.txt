@@ -1,0 +1,9 @@
+4/16/2023 11:04am -> Started assignment 1.09
+4/16/2023 11:58am -> Added an inventory system for the pc that involves a bag class.
+4/16/2023 12:34pm -> Got all items within the bag to work within the game.
+4/16/2023 2:07pm -> Created a pokemon list that is able to be displayed and changes out current pokemon.
+4/16/2023 2:56pm -> Got fights for pokemon in tall grass to work.
+4/16/2023 3:13pm -> Got the running function to work from just the wild pokemon.
+4/17/2023 1:03pm -> Implemented fights between trainers and got them to use all pokemon before being defeated.
+4/17/2023 1:35pm -> Changed the pokemart io to display that your items are restored as well as actually restoring the items.
+4/17/2023 2:13pm -> Changed the pokecenter io to display that pokemon are healed as well as healing the pokemon.

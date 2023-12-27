@@ -1,0 +1,5 @@
+3/26/2023 10:20am -> Started assignment1.06.
+3/26/2023 11:35am -> Created ability to generate maps and go between them. (South currently isnt working less map previously discovered.)
+3/26/2023 12:15pm -> Created fly ability.
+3/26/2023 7:19pm -> Used the most amount of casts I think I have ever used to convert from C to C++
+3/27/2023 1:50pm -> Got the south and west gates to work flawlessly with the diagonal movements.

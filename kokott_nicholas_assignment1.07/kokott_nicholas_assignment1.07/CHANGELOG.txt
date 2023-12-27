@@ -1,0 +1,6 @@
+4/2/2023 3:00pm -> Started Assignment1.07.
+4/2/2023 3:10pm -> Created files.h as basis for files.cpp.
+4/2/2023 3:47pm -> Finally read all files and got relevant information into classes.
+4/3/2023 1:00pm -> Created all methods to individually display information of classes.
+4/3/2023 1:24pm -> Created a way for the user to manually type what file they would like to see.
+4/3/2023 2:18pm -> Fixed problem with how multidigit numbers were being calculated.

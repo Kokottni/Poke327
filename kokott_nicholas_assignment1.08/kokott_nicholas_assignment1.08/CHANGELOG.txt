@@ -1,0 +1,6 @@
+4/9/2023 10:06am -> Assignment started.
+4/9/2023 11:14am -> I have created a method to display pokemon when they enter tall grass as well as getters for attributes.
+4/10/2023 12:05pm -> I created a pokemon class so that pc and npc could have pokemon.
+4/10/2023 12:30pm -> I made the initial pokemon selection screen with 3 random pokemon. For this i created a method that would assign all attributes to a pokemon.
+4/10/2023 1:35pm -> I found a way to randomly assign pokemon to the npcs by doing it within each of their constructors.
+4/10/2023 2:13pm -> I created a new battle screen to show the pokemon and stats of said pokemon of the npc that is currently being fought.

@@ -1,0 +1,32 @@
+2/5/2023 3:02pm -> Started project and reading through code to figure out changed I need to make.
+2/5/2023 3:13pm -> Added method postSpawnMap in order to be able to make a map with set gates.
+2/5/2023 5:11pm -> Added a while loop to main that takes input from user and changes map correspondingly.
+2/5/2023 5:35pm -> Added and exists int value to the map to determine if it has been preloaded or not.
+2/5/2023 7:49pm -> Added functionality for the fly ability.
+2/6/2023 11:18am -> Made the big_map into a pointer array rather than a flat out map array.
+2/6/2023 12:00pm -> Fixed scanf input variable parameters.
+2/6/2023 4:59pm -> Fixed malloc for the big_map variable so that it remembers locations and can move between them.
+2/6/2023 5:06pm -> Fixed bug where if you revisited a space going north, the program would remake the map instead of using the previous map.
+2/6/2023 5:15pm -> Fixed bug where fly operator wouldn't check if there were neighbors previously assigned for gate locations.
+2/6/2023 8:08pm -> Fixed bug where changing location via fly was done with 2021 instead of 201.
+2/6/2023 8:13pm -> Fixed bug where fly command would overwrite pervious map if there was one there.
+2/6/2023 9:03pm -> Fixed where center of big_map should be, and adjusted other values accordingly.
+2/6/2023 9:21pm -> Added the probability of pokemarts and pokecenters spawning to be lower the farther from spawn you are.
+2/7/2023 2:43pm -> Fixed bug where directions would need to be input twice in order to start going.
+2/7/2023 3:03pm -> Fixed bug where maps would repeatedly spawn and give error messages that shouldn't be there.
+2/7/2023 3:10pm -> Fixed bug where you couldn't fly to the corners of the map.
+2/7/2023 7:15pm -> Fixed bug where when player was in negative direction, location number would be very large positive number.
+2/7/2023 7:31pm -> Fixed bug where when at border of east and south world, gates would be open.
+2/8/2023 12:33pm -> Fixed bug where when at south or north border going east or west would crash the program.
+
+2/12/2023 2:00pm -> Started assignment 1.03.
+2/12/2023 2:10pm -> Created place_character method to have starting character location.
+2/12/2023 2:32pm -> Edited printMap case switch so that a @ would be printed when ter_character was assigned to a space.
+2/13/2023 2:50pm -> Created a path2 that did not have a from aspect to it.
+2/13/2023 2:59pm -> Created a new djikstra's algorithm utilizing the new path2 that I just created.
+2/13/2023 4:21pm -> Added cost types to the new djikstra's algorithm and removed the edge penalty.
+2/13/2023 10:30pm -> Added costChange method to better determine the cost changing for each individual if statement.
+2/20/2023 2:13pm -> Modified if statements to determine if predicted distance is less than current distance, and fixed heap node assignment.
+2/21/2023 2:24pm -> Fixed bug where the character position was being given cost of INT_MAX.
+2/21/2023 2:45pm -> Fixed a couple of bugs where distances away were being manipulated by wrong value.
+2/21/2023 6:16pm -> Added functionality so that the distance maps are printed after every generated map from the previous assignment.

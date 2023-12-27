@@ -1,0 +1,18 @@
+2/26/2023 1:03pm -> Assignment 1.04 started.
+2/26/2023 1:21pm -> Read through instructor schaeffers code to understand it, and created method moveCharacters.
+2/26/2023 1:46pm -> Within moveCharacters I created a way to generate all the characters.
+2/26/2023 2:56pm -> Added movement logic for the pacer character.
+2/26/2023 3:30pm -> Added movement logic for the explorer character.
+2/26/2023 3:45pm -> Added movement logic for the wanderer character.
+2/26/2023 4:12pm -> Fixed movement error within pacer logic.
+2/26/2023 6:21pm -> Added movement logic for the rival and the hiker character types.
+2/26/2023 6:31pm -> Added character symbols to the print_map function so they are displayed.
+2/26/2023 7:02pm -> Fixed cost calculation for each character.
+2/26/2023 7:04pm -> Fixed problem where characters wouldn't move because sentry was always going.
+2/27/2023 3:15pm -> Created comparator for heap so it could have characters added to it.
+2/27/2023 4:06pm -> Fixed bug where rivals and hikers would keep moving even if they couldnt.
+2/27/2023 4:54pm -> Fixed bug where all other characters would move when they shouldn't.
+2/28/2023 2:56pm -> Fixed bug where you could not reinsert nodes into heap.
+2/28/2023 6:03pm -> Added logic for the swimmer character.
+2/28/2023 6:31pm -> Stopped program from getting stuck when characters would be trapped.
+3/1/2023 10:52am -> Added functionality for the --numtrainers # inputs.
