@@ -1,0 +1,9 @@
+4/28/2023 10:05am -> Began assignment 1.10.
+4/28/2023 10:20am -> Decided to add currency system to game so I added coins to the player.
+4/28/2023 11:04am -> Made the pokemart have variable costs per item (3 pokeball, 5 revive, 2 potion).
+4/28/2023 11:26am -> Made defeating a wild pokemon give one coin, and defeating a trainer, give the number coins as pokemon they had.
+4/28/2023 11:40am -> Fixed bug where you could buy unlimited items.
+4/28/2023 11:46am -> Fixed bug where you could have negative coins.
+5/1/2023 4:07pm -> Decided to implement gyms where you could gain significant amounts of coins.
+5/1/2023 4:20pm -> Created the terrain type of gym and allowed it to be placed on the map.
+5/1/2023 5:03pm -> Creted an interface for the gym and gave functionality to leave inbetween trainer fights.
